@@ -1,0 +1,15 @@
+INSERT INTO "produtos" ("nome", "preco") VALUES
+  ('Televisão 43"', 139997),
+  ('Televisão 55"', 250000),
+  ('Notebook Entrada', 200000),
+  ('Notebook Intermediário', 350000),
+  ('Notebook Topo de Linha', 600000),
+  ('Celular Entrada', 80000),
+  ('Celular Intermediário', 160000),
+  ('Celular Topo de Linha', 340000),
+  ('Pelúcia Strange Planet com Gatinho', 7051),
+  ('Violão Lava ME 2', 860000),
+  ('Bicicleta Elétrica', 370000),
+  ('Fone Entrada', 2000),
+  ('Fone Intermediário', 20000),
+  ('Fone Topo de Linha', 80000);
